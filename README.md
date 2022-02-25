@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 🧑‍💻 About Me :  
 <img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "300"/>  
 I'm a Competitive Programmer from India <img src = "https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif" width = "150"/>   
-- :student: I'm currently pursuing B.Tech in Computer Science Engineering From Vellore Institute of Technology.  
+- :student: I'm currently pursuing B.Tech in Computer Science Engineering From Vellore Institute of Technology.<br>  
 - ⚡My Major Interests includes Competitive Programming, Problem Solving, Data Science and App development using Flutter.    
 -  🌱 I'm currently learning Reactjs.  
 
