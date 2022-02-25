@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there this is Vikash 👋
 
 <!--
 **Vikash-techie/Vikash-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🧑‍💻: About Me :
+I am a Competitive Programmer from India <img src = "https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif", width = "30">
