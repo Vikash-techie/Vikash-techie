@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🧑‍💻: About Me :
+### 🧑‍💻 About Me :
 I am a Competitive Programmer from India <img src = "https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif" width = "150"/>
+-:student: I am currently pursuing B.Tech in Computer Science Engineering From Vellore Institute of Technology.
