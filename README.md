@@ -19,3 +19,4 @@ I'm a Competitive Programmer from India <img src = "https://media.giphy.com/medi
 - :student: I'm currently pursuing B.Tech in Computer Science Engineering From Vellore Institute of Technology.  
 - ⚡My Major Interests includes Competitive Programming, Problem Solving, Data Science and App development using Flutter.  
 -  🌱 I'm currently learning Reactjs.  
+<img align="right" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "300"/>
