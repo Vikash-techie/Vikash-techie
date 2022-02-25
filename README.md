@@ -16,11 +16,18 @@ Here are some ideas to get you started:
 -->
 ### 🧑‍💻 About Me :  
 <div align="center">
-<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "400"/>
-<img src = "https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" width = "400"/>
+<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "350"/>
+<img src = "https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" width = "350"/>
 </div>
 I'm a Competitive Programmer from India<img src = "https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif" width = "150"/>   
 - :student: I'm currently pursuing B.Tech in Computer Science Engineering From Vellore Institute of Technology.<br>  
 - ⚡My Major Interests includes Competitive Programming, Problem Solving, Data Science and App development using Flutter.<br>  
 -  🌱 I'm currently learning Reactjs.<br>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :  
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
+</div>
