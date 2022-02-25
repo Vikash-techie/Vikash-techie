@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div>
 <div align="right">
 <img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "300"/>  
-</div>
+</div>  
 I'm a Competitive Programmer from India <img src = "https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif" width = "150"/>   
 - :student: I'm currently pursuing B.Tech in Computer Science Engineering From Vellore Institute of Technology.  
 - ⚡My Major Interests includes Competitive Programming, Problem Solving, Data Science and App development using Flutter.    
