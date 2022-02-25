@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🧑‍💻: About Me :
-I am a Competitive Programmer from India <img src = "https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif", width = "30"/>
+I am a Competitive Programmer from India <img src = "https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif" width = "30"/>
