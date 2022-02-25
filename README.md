@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🧑‍💻 About Me :  
-<div class="row">
-<div class="column">
-<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "400"/>
-</div>
-<div class="column">
-<img src = "https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" width = "400"/>
-</div>
+<div>
+<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "200"/>
+<img src = "https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" width = "200"/>
 </div>
 I'm a Competitive Programmer from India<img src = "https://media.giphy.com/media/jQoMk4rOThGxC9EmaV/giphy.gif" width = "150"/>   
 - :student: I'm currently pursuing B.Tech in Computer Science Engineering From Vellore Institute of Technology.<br>  
