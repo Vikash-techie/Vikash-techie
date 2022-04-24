@@ -30,7 +30,7 @@ I'm a Competitive Programmer from India<img src = "https://media.giphy.com/media
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45">&nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45" height="45">&nbsp
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="45" height="45">&nbsp
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="45" height="45">&nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45" height="45">&nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="45" height="45">&nbsp
   <img src = "https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="45" height="45">&nbsp
